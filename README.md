@@ -1,6 +1,8 @@
+[![Build Status](https://travis-ci.org/Bigomby/codingame-texas-holdem.svg?branch=master)](https://travis-ci.org/Bigomby/codingame-texas-holdem)
+
 # Codingame Texas Holdem
 
-This is my solution for the Codingame Texas Holdem game
+This is my solution for the Codingame Texas Holdem game.
 
 ## Goal
 
